@@ -1,2 +1,8 @@
 # Exibir números ímpares entre M e N
-Faça um programa que leia dois números M e N, e mostre apenas os números ímpares do intervalo.
+Implemente o método mostrarImparesEntreMeN, que recebe dois valores numéricos inteiros M e N e exibe apenas os números ímpares no intervalo de M a N.
+
+O método deve iterar de M até N e exibir apenas os números ímpares.
+##Exemplos:
+Para a entrada M = 3 e N = 10, a saída deve ser: 3, 5, 7, 9.
+Para a entrada M = 15 e N = 20, a saída deve ser: 15, 17, 19.
+Para a entrada M = 1 e N = 5, a saída deve ser: 1, 3, 5.
